@@ -4,7 +4,7 @@ I'm a person in Korea who wants to be a "cool and amazing" front-end developer �
 <img height="150" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/cat.gif" alt="Funny pixel cat gif moving its tail." />
 
 <p>
-  👩🏻‍💻  I’m currently doing on STREACT project with <em>React, react-dnd, TypeScript, Zustand, Emotion, Vite...</em> <br />
+  👩🏻‍💻  I’m currently doing STREACT project using <em>React, react-dnd, TypeScript, Zustand, Emotion, Vite...</em> <br />
   ✏  I’m currently learning <em>Node.js, express</em><br />
 ❤️ I like learning English, doing yoga and talking to other about anything! these make me feel good! 😆
 </p>
