@@ -6,7 +6,7 @@ I'm a person in Korea who wants to be a "cool and amazing" front-end developer �
 <p>
   👩🏻‍💻  I’m currently doing STREACT project using <em>React, react-dnd, TypeScript, Zustand, Emotion, Vite...</em> <br />
   ✏  I’m currently learning <em>Node.js, express</em><br />
-❤️ I like learning English, doing yoga and talking to other about anything! these make me feel good! 😆
+❤️ I like learning English, doing yoga and talking to other about anything! These make me feel good! 😆
 </p>
 
 
@@ -21,14 +21,15 @@ I'm a person in Korea who wants to be a "cool and amazing" front-end developer �
 ![Emotion](https://img.shields.io/badge/Emotion-C64FB5?style=for-the-badge&logo=&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=white)
+
+### I've used
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
-### tools 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+### Tools 
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
