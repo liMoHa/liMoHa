@@ -1,4 +1,4 @@
-### Hi there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! 👋 
 I'm a person in Korea who wants to be a "cool and amazing" front-end developer 😎
 
 <img height="150" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/cat.gif" alt="Funny pixel cat gif moving its tail." />
