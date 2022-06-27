@@ -1,7 +1,7 @@
 ### Hi there! 👋 
 I'm a person in Korea who wants to be a "cool and amazing" front-end developer 😎
 
-<img height="150" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/cat.gif" alt="Funny pixel cat gif moving its tail." />
+<img width="150" height="150" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/cat.gif" alt="Funny pixel cat gif moving its tail." />
 
 <p>
   👩🏻‍💻  I’m currently doing STREACT project using <em>React, react-dnd, TypeScript, Zustand, Emotion, Vite...</em> <br />
